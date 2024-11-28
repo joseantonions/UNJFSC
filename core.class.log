@@ -1,0 +1,544 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51983758321@s.whatsapp.net',
+    fromMe: false,
+    id: 'B75BAD104D5AAD54B624E0D09B2F6EDE',
+    participant: undefined
+  },
+  messageTimestamp: 1732806382,
+  pushName: 'Juan Dorador',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ok',
+  from: '51983758321'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ac376503-f75f-47a9-8490-d0b97f40f9be',
+  keyword: 'key_c3d3338f-1727-4447-9d9c-5cd69b1ac6cb',
+  answer: '¡Hola!\n' +
+    '\n' +
+    '!Bienvenido/a a la Oficina de Registros y Asuntos Academicos¡ Soy ORAA, tu asesor virtual 🤖 Lun-Vie (8:00:4:00)\n' +
+    '💡 Comunicarte que para cualquier procedimiento deberás adjuntar:\n' +
+    '🚀FUT - https://unjfsc.edu.pe/download/formato-unico-de-tramite/ \n' +
+    '🚀Anexo 2 - https://unjfsc.edu.pe/download/anexo-n-2-de-la-directiva-de-tramites-virtuales/\n' +
+    '\n' +
+    'Con finalidad de brindarte una atención personalizada, por favor indícame ¿Cuál es tu nombre?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2862a364d5a45231185c36bd9d8e81e9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51983544332@s.whatsapp.net',
+    fromMe: false,
+    id: 'CF7D80647E1BFEEB5B1BEA7C42ECDC95',
+    participant: undefined
+  },
+  messageTimestamp: 1732806405,
+  pushName: 'Antonio Saavedra',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quisiera consultar de como tramitar mi certificado de egresado y constancia para ver en que puesto estoy (tercio superior, quinto superior, etc)',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Quisiera consultar de como tramitar mi certificado de egresado y constancia para ver en que puesto estoy (tercio superior, quinto superior, etc)',
+  from: '51983544332'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ac376503-f75f-47a9-8490-d0b97f40f9be',
+  keyword: 'key_c3d3338f-1727-4447-9d9c-5cd69b1ac6cb',
+  answer: '¡Hola!\n' +
+    '\n' +
+    '!Bienvenido/a a la Oficina de Registros y Asuntos Academicos¡ Soy ORAA, tu asesor virtual 🤖 Lun-Vie (8:00:4:00)\n' +
+    '💡 Comunicarte que para cualquier procedimiento deberás adjuntar:\n' +
+    '🚀FUT - https://unjfsc.edu.pe/download/formato-unico-de-tramite/ \n' +
+    '🚀Anexo 2 - https://unjfsc.edu.pe/download/anexo-n-2-de-la-directiva-de-tramites-virtuales/\n' +
+    '\n' +
+    'Con finalidad de brindarte una atención personalizada, por favor indícame ¿Cuál es tu nombre?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2862a364d5a45231185c36bd9d8e81e9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51973664002@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B9256C7ADA9C8E7C96',
+    participant: undefined
+  },
+  messageTimestamp: 1732806443,
+  pushName: 'Paola Minaya 😈',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ok',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ok',
+  from: '51973664002'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ac376503-f75f-47a9-8490-d0b97f40f9be',
+  keyword: 'key_c3d3338f-1727-4447-9d9c-5cd69b1ac6cb',
+  answer: '¡Hola!\n' +
+    '\n' +
+    '!Bienvenido/a a la Oficina de Registros y Asuntos Academicos¡ Soy ORAA, tu asesor virtual 🤖 Lun-Vie (8:00:4:00)\n' +
+    '💡 Comunicarte que para cualquier procedimiento deberás adjuntar:\n' +
+    '🚀FUT - https://unjfsc.edu.pe/download/formato-unico-de-tramite/ \n' +
+    '🚀Anexo 2 - https://unjfsc.edu.pe/download/anexo-n-2-de-la-directiva-de-tramites-virtuales/\n' +
+    '\n' +
+    'Con finalidad de brindarte una atención personalizada, por favor indícame ¿Cuál es tu nombre?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2862a364d5a45231185c36bd9d8e81e9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51973664002@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0941AAA66A2949A93AA',
+    participant: undefined
+  },
+  messageTimestamp: 1732806458,
+  pushName: 'Paola Minaya 😈',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Paola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Paola',
+  from: '51973664002'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3dcba40f-38b0-448f-aa09-a78c50b4a747',
+  keyword: 'ans_ac376503-f75f-47a9-8490-d0b97f40f9be',
+  answer: '*1* - Reactualizacion\r\n' +
+    '*2* - Reserva de matricula\r\n' +
+    '*3* - Constancia de estudio\r\n' +
+    '*4* - Constancia de egresado\r\n' +
+    '*5* - Constancia de tercio superior, quinto y promedio ponderado estudiantes\r\n' +
+    '*6* - Constancia de primera matricula\r\n' +
+    '*7* - Constancia de orden de merito\r\n' +
+    '*8* - Certificado de estudios\r\n' +
+    '*9* - Record académico\r\n' +
+    '*10* - Record económico\r\n' +
+    '*11* - Devolución de dinero\r\n' +
+    '*12* - Rectificación de matricula\r\n' +
+    '*13* - Ver expediente\r\n' +
+    '*14* - Contactar a un asesor\r\n' +
+    '\r\n' +
+    '*🏢 Oficina de Admisión Central*\r\n' +
+    '*15* - Constancia de ingreso\r\n' +
+    '\r\n' +
+    '*0* - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4b633364a97daa7c8aa001a0990a04d2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51973664002@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02E5C2CBAA771FCEA27',
+    participant: undefined
+  },
+  messageTimestamp: 1732806479,
+  pushName: 'Paola Minaya 😈',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '8',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '8',
+  from: '51973664002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51983544332@s.whatsapp.net',
+    fromMe: false,
+    id: '8AAA8B6EB69CF9B963E24326730F0EB3',
+    participant: undefined
+  },
+  messageTimestamp: 1732806939,
+  pushName: 'Antonio Saavedra',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Orden merito',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Orden merito',
+  from: '51983544332'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3dcba40f-38b0-448f-aa09-a78c50b4a747',
+  keyword: 'ans_ac376503-f75f-47a9-8490-d0b97f40f9be',
+  answer: '*1* - Reactualizacion\r\n' +
+    '*2* - Reserva de matricula\r\n' +
+    '*3* - Constancia de estudio\r\n' +
+    '*4* - Constancia de egresado\r\n' +
+    '*5* - Constancia de tercio superior, quinto y promedio ponderado estudiantes\r\n' +
+    '*6* - Constancia de primera matricula\r\n' +
+    '*7* - Constancia de orden de merito\r\n' +
+    '*8* - Certificado de estudios\r\n' +
+    '*9* - Record académico\r\n' +
+    '*10* - Record económico\r\n' +
+    '*11* - Devolución de dinero\r\n' +
+    '*12* - Rectificación de matricula\r\n' +
+    '*13* - Ver expediente\r\n' +
+    '*14* - Contactar a un asesor\r\n' +
+    '\r\n' +
+    '*🏢 Oficina de Admisión Central*\r\n' +
+    '*15* - Constancia de ingreso\r\n' +
+    '\r\n' +
+    '*0* - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4b633364a97daa7c8aa001a0990a04d2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51973664002@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00A398A729269EF291A',
+    participant: undefined
+  },
+  messageTimestamp: 1732806987,
+  pushName: 'Paola Minaya 😈',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '7',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '7',
+  from: '51973664002'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ac376503-f75f-47a9-8490-d0b97f40f9be',
+  keyword: 'key_c3d3338f-1727-4447-9d9c-5cd69b1ac6cb',
+  answer: '¡Hola!\n' +
+    '\n' +
+    '!Bienvenido/a a la Oficina de Registros y Asuntos Academicos¡ Soy ORAA, tu asesor virtual 🤖 Lun-Vie (8:00:4:00)\n' +
+    '💡 Comunicarte que para cualquier procedimiento deberás adjuntar:\n' +
+    '🚀FUT - https://unjfsc.edu.pe/download/formato-unico-de-tramite/ \n' +
+    '🚀Anexo 2 - https://unjfsc.edu.pe/download/anexo-n-2-de-la-directiva-de-tramites-virtuales/\n' +
+    '\n' +
+    'Con finalidad de brindarte una atención personalizada, por favor indícame ¿Cuál es tu nombre?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2862a364d5a45231185c36bd9d8e81e9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51973664002@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A9F7F27DC9C6258BFE',
+    participant: undefined
+  },
+  messageTimestamp: 1732806995,
+  pushName: 'Paola Minaya 😈',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'PAOLA',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'PAOLA',
+  from: '51973664002'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3dcba40f-38b0-448f-aa09-a78c50b4a747',
+  keyword: 'ans_ac376503-f75f-47a9-8490-d0b97f40f9be',
+  answer: '*1* - Reactualizacion\r\n' +
+    '*2* - Reserva de matricula\r\n' +
+    '*3* - Constancia de estudio\r\n' +
+    '*4* - Constancia de egresado\r\n' +
+    '*5* - Constancia de tercio superior, quinto y promedio ponderado estudiantes\r\n' +
+    '*6* - Constancia de primera matricula\r\n' +
+    '*7* - Constancia de orden de merito\r\n' +
+    '*8* - Certificado de estudios\r\n' +
+    '*9* - Record académico\r\n' +
+    '*10* - Record económico\r\n' +
+    '*11* - Devolución de dinero\r\n' +
+    '*12* - Rectificación de matricula\r\n' +
+    '*13* - Ver expediente\r\n' +
+    '*14* - Contactar a un asesor\r\n' +
+    '\r\n' +
+    '*🏢 Oficina de Admisión Central*\r\n' +
+    '*15* - Constancia de ingreso\r\n' +
+    '\r\n' +
+    '*0* - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4b633364a97daa7c8aa001a0990a04d2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51973664002@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0638CC41673E026441A',
+    participant: undefined
+  },
+  messageTimestamp: 1732806999,
+  pushName: 'Paola Minaya 😈',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '7',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '7',
+  from: '51973664002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51983544332@s.whatsapp.net',
+    fromMe: false,
+    id: '1B3D5B79465BF92286647282423C6663',
+    participant: undefined
+  },
+  messageTimestamp: 1732807047,
+  pushName: 'Antonio Saavedra',
+  broadcast: false,
+  message: Message {
+    conversation: '7',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '7',
+  from: '51983544332'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51983544332@s.whatsapp.net',
+    fromMe: false,
+    id: '5817B771D7DEA9999817C1D39EE621E1',
+    participant: undefined
+  },
+  messageTimestamp: 1732807115,
+  pushName: 'Antonio Saavedra',
+  broadcast: false,
+  message: Message {
+    conversation: 'La constancia de egresado, tambien se envia por la misma pagina',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'La constancia de egresado, tambien se envia por la misma pagina',
+  from: '51983544332'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ac376503-f75f-47a9-8490-d0b97f40f9be',
+  keyword: 'key_c3d3338f-1727-4447-9d9c-5cd69b1ac6cb',
+  answer: '¡Hola!\n' +
+    '\n' +
+    '!Bienvenido/a a la Oficina de Registros y Asuntos Academicos¡ Soy ORAA, tu asesor virtual 🤖 Lun-Vie (8:00:4:00)\n' +
+    '💡 Comunicarte que para cualquier procedimiento deberás adjuntar:\n' +
+    '🚀FUT - https://unjfsc.edu.pe/download/formato-unico-de-tramite/ \n' +
+    '🚀Anexo 2 - https://unjfsc.edu.pe/download/anexo-n-2-de-la-directiva-de-tramites-virtuales/\n' +
+    '\n' +
+    'Con finalidad de brindarte una atención personalizada, por favor indícame ¿Cuál es tu nombre?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2862a364d5a45231185c36bd9d8e81e9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51984359393@s.whatsapp.net',
+    fromMe: false,
+    id: 'E2BF7D10E952B74D5A0ED3B8DF6FA213',
+    participant: undefined
+  },
+  messageTimestamp: 1732811610,
+  pushName: '°.^_🐬_^.°●',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Buenos días deseo hacer una consulta.',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Buenos días deseo hacer una consulta.',
+  from: '51984359393'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ac376503-f75f-47a9-8490-d0b97f40f9be',
+  keyword: 'key_c3d3338f-1727-4447-9d9c-5cd69b1ac6cb',
+  answer: '¡Hola!\n' +
+    '\n' +
+    '!Bienvenido/a a la Oficina de Registros y Asuntos Academicos¡ Soy ORAA, tu asesor virtual 🤖 Lun-Vie (8:00:4:00)\n' +
+    '💡 Comunicarte que para cualquier procedimiento deberás adjuntar:\n' +
+    '🚀FUT - https://unjfsc.edu.pe/download/formato-unico-de-tramite/ \n' +
+    '🚀Anexo 2 - https://unjfsc.edu.pe/download/anexo-n-2-de-la-directiva-de-tramites-virtuales/\n' +
+    '\n' +
+    'Con finalidad de brindarte una atención personalizada, por favor indícame ¿Cuál es tu nombre?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2862a364d5a45231185c36bd9d8e81e9'
+}
